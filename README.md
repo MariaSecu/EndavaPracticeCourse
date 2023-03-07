@@ -32,3 +32,19 @@ The applied knowledge include:
 5. For function
 6. If statement
 7. Methods
+
+*Inpu Output*
+package contain 4 classes that are used to:
+1. Creating a file with some text in it
+2. Moving data between  files
+3. Counting the word
+4. Substitute the word
+
+The applied knowledge include:
+1. Access modifiers
+2. Data type
+3. Variables
+4. Methods
+5. Scanner
+6. Exceptions
+7. While function
