@@ -17,3 +17,18 @@ The applied knowledge include:
 5. If, if else, else statement
 6. Methods
 7. Scanner
+
+*Collections:*
+Contain 3 classes that are used to:
+1. Creating that doesn't accept words less than 3 characters
+2. Creating an Array list
+3. Creating a method that are used to calculate the square
+
+The applied knowledge include:
+1. Map interface
+2. List interface
+3. ArrayList class
+4. Scanner
+5. For function
+6. If statement
+7. Methods
