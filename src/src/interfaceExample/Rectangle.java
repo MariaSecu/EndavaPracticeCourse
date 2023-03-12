@@ -1,0 +1,8 @@
+package interfaceExample;
+
+public class Rectangle implements Drawable {
+    @Override
+    public void draw() {
+        System.out.println("Drawing a rectangle.");
+    }
+}
